@@ -18,3 +18,12 @@ body {
 .page-footer {
 	display: block;
 }
+.new {
+	border: 4px dotted red;
+}
+.button {
+	border: 1px solid #000;
+	border-radius: 3px;
+	background-color: yellow;
+	color: white;
+}
